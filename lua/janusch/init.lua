@@ -1,2 +1,2 @@
-require("janusch.remap")
 require("janusch.set")
+require("janusch.remap")
